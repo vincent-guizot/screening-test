@@ -58,3 +58,4 @@ var watches = ["Swiss Army","Dublot","G-Shock"]
 Result:
 
 Saya punya Swiss Army, Dublot, dan G-Shock.
+
