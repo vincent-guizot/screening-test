@@ -14,6 +14,7 @@ Format file .txt => [nama-jawabanscreeningtest].txt
 Input : 5
 
 Result:
+
 5 adalah Bilangan Ganjil
 
 ### 2. Kelipatan 3 dan 5
@@ -21,19 +22,33 @@ Result:
 Input : 15
 
 1
+
 2
+
 3 adalah kelipatan 3
+
 4
+
 5 adalah kelipatan 5
+
 6 adalah kelipatan 3
+
 7
+
 8
+
 9 adalah kelipatan 3
+
 10 adalah kelipatan 5
+
 11
+
 12 adalah kelipatan 3
+
 13
+
 14
+
 15 adalah kelipatan 3 dan 5
 
 ### 3. Print Arloji
