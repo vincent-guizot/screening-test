@@ -17,6 +17,15 @@ Result:
 
 5 adalah Bilangan Ganjil
 
+
+Case lainnya:
+
+Input: 2
+
+Result:
+
+2 adalah Bilangan Genap
+
 ### 2. Kelipatan 3 dan 5
 
 Input : 15
@@ -53,9 +62,16 @@ Input : 15
 
 ### 3. Print Arloji
 
-var watches = ["Swiss Army","Dublot","G-Shock"]
+var watches = ["Swiss Army","Dublot","G-Shock"];
 
 Result:
 
 Saya punya Swiss Army, Dublot, dan G-Shock.
 
+Case lain:
+
+var watches = ['A','B','C','D','E'];
+
+Result:
+
+Saya punya A, B, C, D, dan E.
