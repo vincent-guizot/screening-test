@@ -17,7 +17,6 @@ Result:
 
 5 adalah Bilangan Ganjil
 
-
 Case lainnya:
 
 Input: 2
@@ -29,6 +28,8 @@ Result:
 ### 2. Kelipatan 3 dan 5
 
 Input : 15
+
+Result: 
 
 1
 
@@ -62,16 +63,21 @@ Input : 15
 
 ### 3. Print Arloji
 
+```js
+
 var watches = ["Swiss Army","Dublot","G-Shock"];
 
-Result:
+// Result:
 
 Saya punya Swiss Army, Dublot, dan G-Shock.
+```
 
 Case lain:
 
+```js
 var watches = ['A','B','C','D','E'];
 
-Result:
+// Result:
 
 Saya punya A, B, C, D, dan E.
+```
