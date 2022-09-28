@@ -85,4 +85,4 @@ var watches = ['A','B','C','D','E'];
 Saya punya A, B, C, D, dan E.
 ```
 
-NOTES: Jangan menggunakan manual print saja, tetapi gunakan for dan if
+NOTES: Jangan menggunakan manual print saja, tetapi gunakan for dan if.
