@@ -12,7 +12,7 @@ Format file .txt => [nama-jawabanscreeningtest].txt
 
 ## Task
 
-### 1. Cek apakah bilang genap atau ganjil
+### 1. Cek apakah bilang genap atau ganjil - bobot: 15 pts
 
 Isi variable : 5
 
@@ -28,7 +28,7 @@ Result:
 
 2 adalah Bilangan Genap
 
-### 2. Tampilkan Kelipatan 3 dan 5
+### 2. Tampilkan Kelipatan 3 dan 5 - bobot: 35 pts
 
 Isi variable : 15
 
@@ -64,7 +64,9 @@ Result:
 
 15 adalah kelipatan 3 dan 5
 
-### 3. Print Arloji
+### 3. Print Arloji - bobot: 50pts
+
+NOTES: Jangan menggunakan manual print saja, tetapi gunakan for dan if.
 
 ```js
 
@@ -85,4 +87,3 @@ var watches = ['A','B','C','D','E'];
 Saya punya A, B, C, D, dan E.
 ```
 
-NOTES: Jangan menggunakan manual print saja, tetapi gunakan for dan if.
