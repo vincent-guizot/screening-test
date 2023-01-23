@@ -10,63 +10,39 @@
 
 Format file .txt => [nama-jawabanscreeningtest].txt
 
-## Task
+##
 
-### 1. Cek apakah bilang genap atau ganjil - bobot: 15 pts
-
-Isi variable : 5
-
-Result:
-
-5 adalah Bilangan Ganjil
-
-Case lainnya:
-
-Isi variable : 2
-
-Result:
-
-2 adalah Bilangan Genap
-
-### 2. Tampilkan Kelipatan 3 dan 5 - bobot: 35 pts
+### 2. Tampilkan angka genap dan ganjil: 35 pts
 
 Isi variable : 15
 
 Result: 
 
-1
+1 adalah Bilangan Ganjil
 
-2
+2 adalah Bilangan Genap
 
-3 adalah kelipatan 3
+3 adalah Bilangan Ganjil
 
-4
+4 adalah Bilangan Genap
 
-5 adalah kelipatan 5
+5 adalah Bilangan Ganjil
 
-6 adalah kelipatan 3
+6 adalah Bilangan Genap
 
-7
+7 adalah Bilangan Ganjil
 
-8
+8 adalah Bilangan Genap
 
-9 adalah kelipatan 3
+9 adalah Bilangan Ganjil
 
 10 adalah kelipatan 5
 
-11
-
-12 adalah kelipatan 3
-
-13
-
-14
-
-15 adalah kelipatan 3 dan 5
-
-### 3. Print Arloji - bobot: 50pts
+### 2. Print Arloji - bobot: 50pts
 
 NOTES: Jangan menggunakan manual print saja, tetapi gunakan for dan if.
+
+Tampilkan nilai dari sebuah array menjadi sebuah string.
 
 ```js
 
