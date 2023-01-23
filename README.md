@@ -12,7 +12,7 @@ Format file .txt => [nama-jawabanscreeningtest].txt
 
 ## Tasks
 
-### 1. Tampilkan angka genap dan ganjil: 35 pts
+### 1. Tampilkan angka genap dan ganjil: 15 pts
 
 Isi variable : 15
 
@@ -38,26 +38,24 @@ Result:
 
 10 adalah Bilangan Genap
 
-### 2. Print Arloji - bobot: 50pts
+### 2. Print Arloji - bobot: 35pts
 
 NOTES: Jangan menggunakan manual print saja, tetapi gunakan for dan if.
 
-Tampilkan nilai dari sebuah array menjadi sebuah string.
+Tampilkan nilai dari sebuah array menjadi sebuah string. Tampilkan sesuai yang diminta termasuk ',' (koma), 'dan', '.' (titik)
 
 ```js
 
 var watches = ["Swiss Army","Dublot","G-Shock"];
 
 // Result:
-
-Saya punya Swiss Army, Dublot, dan G-Shock.
+// Saya punya Swiss Army, Dublot, dan G-Shock.
 
 // Conntoh lain:
 
 var watches = ['A','B','C','D','E'];
 
 // Result:
-
-Saya punya A, B, C, D, dan E.
+// Saya punya A, B, C, D, dan E.
 ```
 
