@@ -10,9 +10,9 @@
 
 Format file .txt => [nama-jawabanscreeningtest].txt
 
-##
+## Tasks
 
-### 2. Tampilkan angka genap dan ganjil: 35 pts
+### 1. Tampilkan angka genap dan ganjil: 35 pts
 
 Isi variable : 15
 
@@ -36,7 +36,7 @@ Result:
 
 9 adalah Bilangan Ganjil
 
-10 adalah kelipatan 5
+10 adalah Bilangan Genap
 
 ### 2. Print Arloji - bobot: 50pts
 
@@ -51,11 +51,9 @@ var watches = ["Swiss Army","Dublot","G-Shock"];
 // Result:
 
 Saya punya Swiss Army, Dublot, dan G-Shock.
-```
 
-Case lain:
+// Conntoh lain:
 
-```js
 var watches = ['A','B','C','D','E'];
 
 // Result:
