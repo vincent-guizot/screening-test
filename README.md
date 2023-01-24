@@ -14,7 +14,7 @@ Format file .txt => [nama-jawabanscreeningtest].txt
 
 ### 1. Tampilkan angka genap dan ganjil: 15 pts
 
-Isi variable : 15
+Isi variable : 10
 
 Result: 
 
@@ -38,6 +38,8 @@ Result:
 
 10 adalah Bilangan Genap
 
+---
+
 ### 2. Print Arloji - bobot: 35pts
 
 NOTES: Jangan menggunakan manual print saja, tetapi gunakan for dan if.
@@ -58,6 +60,8 @@ var watches = ['A','B','C','D','E'];
 // Result:
 // Saya punya A, B, C, D, dan E.
 ```
+
+---
 
 ### 3. Cari nilai tertinggi : 50 pts
 
