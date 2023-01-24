@@ -53,8 +53,6 @@ var watches = ["Swiss Army","Dublot","G-Shock"];
 // Result:
 // Saya punya Swiss Army, Dublot, dan G-Shock.
 
-// Conntoh lain:
-
 var watches = ['A','B','C','D','E'];
 
 // Result:
