@@ -59,3 +59,10 @@ var watches = ['A','B','C','D','E'];
 // Saya punya A, B, C, D, dan E.
 ```
 
+### 3. Cari nilai tertinggi : 50 pts
+
+```js
+var scores = [10,2,5,15,17,1,3]
+
+// Max = 17
+```
