@@ -61,14 +61,22 @@ var watches = ['A','B','C','D','E'];
 
 ---
 
-### 3. Cari nilai tertinggi : 50 pts
+### 3. Cek apakah bilangan Prima
 
 ```js
 
 // Kerjakan tidak boleh menggunakan built in function, contoh: .sort(), max, dst
 // Hanya boleh mengerjakan dengan menggunakan looping dan conditional
 
-var scores = [10,2,5,15,17,1,3]
+// Contoh 1
+var number = 17
 
-// Max = 17
+// Result:
+// 17 adalah Bilangan Prima
+
+// Contoh 2
+var number = 15;
+
+// Result:
+// 15 adalah Bukan Bilangan Prima
 ```
