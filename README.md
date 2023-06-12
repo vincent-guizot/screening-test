@@ -47,13 +47,16 @@ var number = 15;
 14
 
 15 adalah Kelipatan 3 dan 5
+
 ---
 
 ### 2. Print Arloji - bobot: 35pts
 
 NOTES: Jangan menggunakan manual print saja, tetapi gunakan for dan if.
 
-Tampilkan nilai dari sebuah array menjadi sebuah string. Tampilkan sesuai yang diminta termasuk ',' (koma), 'dan', '.' (titik)
+Tampilkan nilai dari sebuah array menjadi sebuah string. 
+
+Tampilkan sesuai yang diminta termasuk ',' (koma), 'dan', '.' (titik)
 
 ```js
 
@@ -80,6 +83,8 @@ var watches = ['A','B','C','D','E'];
 
 // Kerjakan tidak boleh menggunakan built in function, contoh: .sort(), max, dst
 // Hanya boleh mengerjakan dengan menggunakan looping dan conditional
+
+Cek apakah sebuah Bilangan merupakan Prima atau Bukan Prima
 
 // Contoh 1
 var number = 17
