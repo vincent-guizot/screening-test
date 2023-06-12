@@ -12,32 +12,41 @@ Format file .txt => [nama-jawabanscreeningtest].txt
 
 ## Tasks
 
-### 1. Tampilkan angka genap dan ganjil: 15 pts
+### 1. Tampilkan angka kelipatan 3, kelipatan 5, kelipatan 3 dan 5
 
-Isi variable : 10
+var number = 15;
 
-Result: 
+// Result: 
 
-1 adalah Bilangan Ganjil
+1 
 
-2 adalah Bilangan Genap
+2 
 
-3 adalah Bilangan Ganjil
+3 adalah Kelipatan 3
 
-4 adalah Bilangan Genap
+4
 
-5 adalah Bilangan Ganjil
+5 adalah Kelipatan 5
 
-6 adalah Bilangan Genap
+6 adalah Kelipatan 3
 
-7 adalah Bilangan Ganjil
+7
 
-8 adalah Bilangan Genap
+8
 
-9 adalah Bilangan Ganjil
+9 adalah Kelipatan 3
 
-10 adalah Bilangan Genap
+10 adalah Kelipatan 5
 
+11
+
+12 adalah Kelipatan 3
+
+13
+
+14
+
+15 adalah Kelipatan 3 dan 5
 ---
 
 ### 2. Print Arloji - bobot: 35pts
@@ -48,11 +57,15 @@ Tampilkan nilai dari sebuah array menjadi sebuah string. Tampilkan sesuai yang d
 
 ```js
 
+// Contoh 1
 var watches = ["Swiss Army","Dublot","G-Shock"];
 
 // Result:
 // Saya punya Swiss Army, Dublot, dan G-Shock.
 
+
+
+// Contoh 2
 var watches = ['A','B','C','D','E'];
 
 // Result:
