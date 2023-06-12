@@ -79,12 +79,15 @@ var watches = ['A','B','C','D','E'];
 
 ### 3. Cek apakah bilangan Prima
 
-```js
+NOTES: 
 
-// Kerjakan tidak boleh menggunakan built in function, contoh: .sort(), max, dst
-// Hanya boleh mengerjakan dengan menggunakan looping dan conditional
+- Kerjakan tidak boleh menggunakan built in function, contoh: .sort(), max, dst
+
+- Hanya boleh mengerjakan dengan menggunakan looping dan conditional
 
 Cek apakah sebuah Bilangan merupakan Prima atau Bukan Prima
+
+```js
 
 // Contoh 1
 var number = 17
